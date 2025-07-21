@@ -1,0 +1,19 @@
+.header {
+    border: 1 solid black;
+    display: flex;
+    justify-content: space-between;
+}
+.logo {
+    width: 100px;
+}
+
+.nav-item > ul {
+    padding: 0px 20px;
+    display: flex;
+    list-style-type: none;
+    font-size: medium;
+}
+.nav-item > ul > li {
+    padding: 10px;
+    
+}
